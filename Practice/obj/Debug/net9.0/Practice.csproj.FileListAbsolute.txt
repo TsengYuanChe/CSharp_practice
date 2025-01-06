@@ -1,0 +1,15 @@
+/Users/tseng/Desktop/code/practice/CSharp/Practice/bin/Debug/net9.0/Practice
+/Users/tseng/Desktop/code/practice/CSharp/Practice/bin/Debug/net9.0/Practice.deps.json
+/Users/tseng/Desktop/code/practice/CSharp/Practice/bin/Debug/net9.0/Practice.runtimeconfig.json
+/Users/tseng/Desktop/code/practice/CSharp/Practice/bin/Debug/net9.0/Practice.dll
+/Users/tseng/Desktop/code/practice/CSharp/Practice/bin/Debug/net9.0/Practice.pdb
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.AssemblyInfoInputs.cache
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.AssemblyInfo.cs
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.csproj.CoreCompileInputs.cache
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.sourcelink.json
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.dll
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/refint/Practice.dll
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.pdb
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/Practice.genruntimeconfig.cache
+/Users/tseng/Desktop/code/practice/CSharp/Practice/obj/Debug/net9.0/ref/Practice.dll
