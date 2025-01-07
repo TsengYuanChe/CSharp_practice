@@ -8,7 +8,7 @@ public class Program2
         Console.ReadLine();
 
         Console.WriteLine("請輸入名字：");
-        string str = Console.ReadLine();  
+        string str = Console.ReadLine() ?? "None";  
         Console.WriteLine(str + "今年" + age + " 歲");
     }
 }
